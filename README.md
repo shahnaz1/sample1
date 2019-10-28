@@ -1,2 +1,2 @@
 # sample1
-xperimenting git
+experimenting git
